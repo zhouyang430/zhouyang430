@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jackie Wong
+- 👋 Hi, I’m Zhouyang Wang
 - 👀 I’m interested in audio programming and music generation.
 - 🌱 I’m currently learning C++, Juce, MAX, and machine learning!
 - 💞️ I’m looking to collaborate on Vst design(Synthesiser, physical modeling, etc.), Music geneating(composing and mxing).
